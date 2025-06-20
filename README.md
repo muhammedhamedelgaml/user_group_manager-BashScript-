@@ -51,6 +51,14 @@ This Bash script provides an interactive terminal-based GUI for managing users a
 Here's how the menu looks:
 
 ![User Group Management Menu](images/menu1.png)
+![User Group Management Menu](images/menu2.png)
+![User Group Management Menu](images/AddUser.png)
+![User Group Management Menu](images/name.png)
+![User Group Management Menu](images/list.png)
+
+
+
+
 
 ---
 
