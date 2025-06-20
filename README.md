@@ -1,4 +1,4 @@
-# 🛠️ Linux User & Group Management Script (with Whiptail)
+#  Linux User & Group Management Script (with Whiptail)
 
 This Bash script provides an interactive terminal-based GUI for managing users and groups on a Linux system using `whiptail`.
 
@@ -48,8 +48,9 @@ This Bash script provides an interactive terminal-based GUI for managing users a
 ---
 
 ## 📸 Screenshots
+Here's how the menu looks:
 
-> _You can add screenshots of the menu UI here if desired._
+![User Group Management Menu](images/menu1.png)
 
 ---
 
